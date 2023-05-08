@@ -212,4 +212,5 @@ const styles = {
   noScoreMessage: {
     marginTop: 20
   }
+
 }
